@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lfqtm
-- 👀 I’m interested in ...
+- 👀 I’m interested in Java
 
 <!---
 lfqtm/lfqtm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
