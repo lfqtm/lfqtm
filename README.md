@@ -2,9 +2,6 @@
 <h3 align="center">A passionate backend developer from China</h3>
 
 - 🔭 I’m currently working on [Spring-Cloud](https://github.com/lfqtm/Spring-Cloud)
-
-- 💬 Ask me about **spring**
-
 - 📫 How to reach me **740942486@qq.com**
 
 <p align="left">
